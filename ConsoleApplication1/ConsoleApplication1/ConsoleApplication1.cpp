@@ -9,7 +9,7 @@ int main() {
     int numberOfmeteorite = rand() % 7;
     int meteoriteDirection = rand() % 2;
 
-    int numberOfStar = rand() % 10 + 10;
+    int numberOfStar = rand() % 20 + 20;
 
     int moonPhases = 0;
     int moonX = 22;
